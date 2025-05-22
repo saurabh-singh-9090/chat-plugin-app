@@ -16,4 +16,4 @@ This project implements an AI-powered chatbot interface that supports a plugin-s
 ## Setup and Running
 
 1. Clone the repository
-2. Install dependencies:
+2. Install dependencies
